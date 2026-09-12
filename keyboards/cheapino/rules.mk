@@ -1,0 +1,6 @@
+ENCODER_ENABLE = yes
+
+QMK_SETTINGS = no
+AUTO_SHIFT_ENABLE = yes
+
+SRC += matrix.c
